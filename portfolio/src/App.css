@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #0a192f;
+    color: #000;
+    
+}
+
+.portfolio-grid {
+    /* padding: 0 10%; */
+    margin-left: 13vw;
+
+    
+}

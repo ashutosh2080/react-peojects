@@ -1,0 +1,9 @@
+.icon {
+  font-size: 20px;              /* default size */
+  color:#a8b2d1;              /* default color */
+  transition: all 0.3s ease;
+}
+
+.icon:hover {
+  transform: translateY(-4px);
+}

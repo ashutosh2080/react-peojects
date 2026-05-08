@@ -1,0 +1,42 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  padding: 18px 50px 50px 25px;
+  /* max-width: 900px; */
+  margin-top: 50px;
+  margin-left: 130px;
+  margin-right: 130px;
+  background-color: #0a192f;
+  border: none;
+  min-height: 80vh;
+  text-align: left;
+  padding: 90px 0 80px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.hmn {
+  font-size: 4rem;
+  line-height: 0.8;
+  margin-bottom: 20px;
+  color: #ccd6f6;
+  font-weight: 700;
+  letter-spacing: normal;
+  margin-left: 0px;
+
+}
+
+.htxt {
+  color: #8892b0;
+  font-size: 4rem;
+  line-height: 0.8;
+  margin-bottom: 20px;
+  font-weight: 700;
+  letter-spacing: normal;
+  margin-left: 0px;
+}
+
+.hero p {
+  font-size: 17px;
+  color: #8892b0;
+}
